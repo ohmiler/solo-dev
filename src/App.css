@@ -11,3 +11,10 @@ header {
   height: 600px;
   background-color: yellow;
 }
+
+footer {
+  padding: 3rem;
+  text-align: center;
+  color: #fff;
+  background-color: #333;
+}
